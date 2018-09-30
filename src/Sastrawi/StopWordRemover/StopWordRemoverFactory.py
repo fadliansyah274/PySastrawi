@@ -102,7 +102,7 @@ class StopWordRemoverFactory(object):
             'tertentu','tertuju','terus','terutama','tetap','tetapi','tiap','tiba','tiba-tiba','tidak',
             'tidakkah','tidaklah','tiga','toh','tuju','tunjuk','turut','tutur','tuturnya','u','ucap','ucapnya',
             'ujar','ujarnya','umumnya','ungkap','ungkapnya','untuk','usah','usai','v','w','waduh','wah','wahai',
-            'waktunya','walau','walaupun','wong','x','y','ya','yaitu','yakin','yakni','yang','z']
+            'waktunya','walau','walaupun','wong','x','y','ya','yaitu','yakin','yakni','yang','z','rt','dki','jakarta','pilkada','pilkadadki','ahok','anies','djarot','sandy','pilkadadkijakarta','pilkadaserentak']
 
 
 
